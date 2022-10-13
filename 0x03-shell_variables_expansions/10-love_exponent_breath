@@ -1,2 +1,2 @@
 #!/bin/bas
-$(($BREATH**$LOVE))
+$((BREATH**LOVE))
